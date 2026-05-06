@@ -1,0 +1,39 @@
+OpenAI được thành lập bởi Sam Altman và Elon Musk vào năm 2015. Công ty tập trung vào nghiên cứu trí tuệ nhân tạo an toàn.
+
+Google được thành lập bởi Larry Page và Sergey Brin vào năm 1998 tại Stanford University. Google hiện là công ty con của Alphabet Inc.
+
+Microsoft được thành lập bởi Bill Gates và Paul Allen vào năm 1975. Microsoft phát triển hệ điều hành Windows và bộ công cụ Office.
+
+Apple được thành lập bởi Steve Jobs, Steve Wozniak và Ronald Wayne vào năm 1976. Apple nổi tiếng với các sản phẩm iPhone, iPad và MacBook.
+
+Meta (trước đây là Facebook) được thành lập bởi Mark Zuckerberg vào năm 2004. Meta sở hữu các nền tảng mạng xã hội như Facebook, Instagram và WhatsApp.
+
+Tesla được thành lập bởi Martin Eberhard và Marc Tarpenning vào năm 2003. Elon Musk gia nhập với tư cách nhà đầu tư và sau đó trở thành CEO.
+
+Amazon được thành lập bởi Jeff Bezos vào năm 1994. Amazon bắt đầu như một cửa hàng sách trực tuyến và hiện là tập đoàn thương mại điện tử lớn nhất thế giới.
+
+Netflix được thành lập bởi Reed Hastings và Marc Randolph vào năm 1997. Netflix chuyển từ cho thuê DVD sang dịch vụ streaming vào năm 2007.
+
+NVIDIA được thành lập bởi Jensen Huang, Chris Malachowsky và Curtis Priem vào năm 1993. NVIDIA là nhà sản xuất GPU hàng đầu thế giới.
+
+SpaceX được thành lập bởi Elon Musk vào năm 2002. SpaceX phát triển tên lửa tái sử dụng và có mục tiêu đưa con người lên sao Hỏa.
+
+Sam Altman là CEO của OpenAI từ năm 2019. Trước đó, ông là chủ tịch của Y Combinator.
+
+Elon Musk rời khỏi ban lãnh đạo OpenAI vào năm 2018 do xung đột lợi ích với Tesla. Ông hiện là CEO của Tesla và SpaceX.
+
+Microsoft đầu tư 10 tỷ USD vào OpenAI vào năm 2023. Thỏa thuận này cho phép Microsoft tích hợp GPT vào các sản phẩm của mình.
+
+Google phát triển mô hình ngôn ngữ Gemini để cạnh tranh với GPT của OpenAI. Gemini được tích hợp vào Google Search và Google Workspace.
+
+Apple hợp tác với OpenAI để tích hợp ChatGPT vào iOS 18 vào năm 2024. Điều này đánh dấu bước đi lớn của Apple trong lĩnh vực AI.
+
+NVIDIA cung cấp GPU H100 cho OpenAI để huấn luyện các mô hình GPT-4 và GPT-5. H100 là GPU mạnh nhất hiện nay cho deep learning.
+
+Meta phát triển mô hình mã nguồn mở Llama để cạnh tranh với các mô hình đóng như GPT. Llama 2 được phát hành vào năm 2023.
+
+Amazon Web Services (AWS) cung cấp dịch vụ cloud computing cho nhiều startup AI. AWS cạnh tranh với Microsoft Azure và Google Cloud Platform.
+
+Jensen Huang, CEO của NVIDIA, được mệnh danh là "cha đẻ của cuộc cách mạng AI" nhờ vai trò của GPU trong deep learning.
+
+Y Combinator là quỹ đầu tư khởi nghiệp nổi tiếng đã đầu tư vào Airbnb, Dropbox, Reddit và nhiều công ty khác. Sam Altman từng là chủ tịch của Y Combinator từ 2014 đến 2019.

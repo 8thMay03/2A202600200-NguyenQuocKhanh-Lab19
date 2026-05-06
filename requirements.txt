@@ -1,0 +1,19 @@
+# Core libraries for GraphRAG
+networkx
+matplotlib
+neo4j
+openai
+pandas
+
+# LangChain support (optional)
+langchain
+langchain-openai
+langchain-community
+
+# Vector store and embeddings
+chromadb
+sentence-transformers
+
+# Utilities
+python-dotenv
+tqdm
